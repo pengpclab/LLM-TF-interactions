@@ -6,8 +6,8 @@ TRRUST v2: an expanded reference database of human and mouse transcriptional reg
 
 ## Web Link
 
-main website: [https://www.grnpedia.org/trrust/](https://www.grnpedia.org/trrust/)
-download page: [https://www.grnpedia.org/trrust/downloadnetwork.php](https://www.grnpedia.org/trrust/downloadnetwork.php)
+- main website: [https://www.grnpedia.org/trrust/](https://www.grnpedia.org/trrust/)
+- download page: [https://www.grnpedia.org/trrust/downloadnetwork.php](https://www.grnpedia.org/trrust/downloadnetwork.php)
 
 # TRRUST Processed Data Notebook
 
